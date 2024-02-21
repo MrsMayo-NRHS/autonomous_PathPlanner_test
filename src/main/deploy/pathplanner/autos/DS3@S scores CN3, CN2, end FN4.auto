@@ -1,0 +1,73 @@
+{
+  "version": 1.0,
+  "startingPose": {
+    "position": {
+      "x": 1.335622956146197,
+      "y": 6.81
+    },
+    "rotation": 39.143986414571046
+  },
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "named",
+          "data": {
+            "name": "shoot_PL"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "DS3S_to_CN3"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "intakeCN3"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "shootCN3"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "CN3_to_CN2"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "intakeCN2"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Rotate_CN2"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "shootCN2"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "CN2_to_FN4"
+          }
+        }
+      ]
+    }
+  },
+  "folder": "autoPathsMrsMayoNRHS",
+  "choreoAuto": false
+}
