@@ -14,7 +14,7 @@
         {
           "type": "named",
           "data": {
-            "name": "shoot_PL"
+            "name": "ShootPL"
           }
         },
         {
@@ -26,13 +26,13 @@
         {
           "type": "named",
           "data": {
-            "name": "intakeCN2"
+            "name": "IntakeCN2"
           }
         },
         {
           "type": "named",
           "data": {
-            "name": "shootCN2"
+            "name": "ShootCN2"
           }
         },
         {
@@ -44,13 +44,13 @@
         {
           "type": "named",
           "data": {
-            "name": "intakeFN4"
+            "name": "IntakeFN4"
           }
         },
         {
           "type": "named",
           "data": {
-            "name": "shootCN3"
+            "name": "ShootCN3"
           }
         },
         {
@@ -62,7 +62,7 @@
         {
           "type": "named",
           "data": {
-            "name": "shootFN4"
+            "name": "ShootFN4"
           }
         }
       ]
