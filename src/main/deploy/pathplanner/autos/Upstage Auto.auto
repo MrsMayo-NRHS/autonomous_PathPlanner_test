@@ -88,7 +88,7 @@
         {
           "type": "named",
           "data": {
-            "name": "ShootNote"
+            "name": "ShootCommand"
           }
         }
       ]
