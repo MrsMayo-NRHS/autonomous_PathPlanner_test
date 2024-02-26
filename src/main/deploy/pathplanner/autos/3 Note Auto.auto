@@ -33,7 +33,7 @@
         {
           "type": "named",
           "data": {
-            "name": "ShootNote"
+            "name": "ShootCommand"
           }
         },
         {
@@ -49,7 +49,7 @@
               {
                 "type": "named",
                 "data": {
-                  "name": "RunIntake"
+                  "name": "IntakeNoteCommand"
                 }
               }
             ]
@@ -77,7 +77,7 @@
         {
           "type": "named",
           "data": {
-            "name": "ShootNote"
+            "name": "ShootCommand"
           }
         },
         {
@@ -93,7 +93,7 @@
               {
                 "type": "named",
                 "data": {
-                  "name": "RunIntake"
+                  "name": "IntakeNoteCommand"
                 }
               }
             ]
@@ -127,7 +127,7 @@
         {
           "type": "named",
           "data": {
-            "name": "ShootNote"
+            "name": "ShootCommand"
           }
         }
       ]
